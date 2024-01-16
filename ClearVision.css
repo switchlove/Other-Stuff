@@ -447,7 +447,7 @@ textarea,
 .notice__5fd4c.notice_a687ab {
     background: rgba(0, 0, 0, 0.6);
 }
-.typeWindows__5fa63 {
+/*.typeWindows__5fa63 {
     height: 18px;
     width: 100vw;
     margin: 0;
@@ -474,7 +474,7 @@ textarea,
     white-space: nowrap;
     order: 1;
 }
-/*.typeWindows__5fa63 > .wordmark__0d178:before {
+.typeWindows__5fa63 > .wordmark__0d178:before {
     content: "ClearVision";
     color: rgba(255, 255, 255, 0.7);
     font-size: 14px;
@@ -500,7 +500,7 @@ textarea,
 }
 .typeWindows__5fa63 > .wordmark__0d178 > svg > g > path:not(:first-child) {
     display: none;
-}*/
+}
 .typeWindows__5fa63 > .winButton__88672 {
     top: -2px;
     opacity: 0.7;
@@ -512,7 +512,7 @@ textarea,
 }
 .typeWindows__5fa63 > .winButtonClose__73489:hover {
     background: var(--danger-color);
-}
+}*/
 .typeMacOS__496b0 {
     width: 70px;
     height: 48px;
